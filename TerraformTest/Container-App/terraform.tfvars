@@ -1,0 +1,5 @@
+resource_group_name         = "rg-blend-prod"
+location                    = "uksouth"
+log_analytics_workspace_name = "log-analytics-container-app-prod"
+container_app_env_name      = "prod-container-app"
+container_app_name          = "prod-nginx"
